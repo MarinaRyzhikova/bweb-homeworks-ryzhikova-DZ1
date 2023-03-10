@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+}
+
+
+form {
+    width: 50%;
+    margin: auto;
+}
+input {
+    margin: 10px;
+    width: 100%;
+}
+
+input[type=submit] {
+    color: #ffffff;
+    background-color: blueviolet;
+    padding: 15px 53px;
+    border: none;
+    width: 100%;
+}
+
+input[type=hidden] {
+
+}
